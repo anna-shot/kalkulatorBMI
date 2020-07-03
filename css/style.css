@@ -1,0 +1,42 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #102f52;
+}
+
+h1 {
+    text-align: center;
+    padding: 100px 0 30px 0;
+}
+
+form {
+    text-align: center;
+    background: linear-gradient(white, gray);
+    margin: 50px 150px;
+    padding: 30px 150px 100px 150px;
+    border-radius: 2%;
+}
+
+label {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+input {
+    margin-right: 5px;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    border: 2px solid lightslategray;
+    font-size: 20px;
+    color: #102f52;
+    border-radius: 4%;
+    padding: 10px 20px;
+}
+
+#calc,
+#reset {
+    margin: 30px;
+    padding: 20px 30px;
+    background-color: rgb(116, 133, 143);
+    letter-spacing: 2px;
+    border-radius: 10px;
+}
